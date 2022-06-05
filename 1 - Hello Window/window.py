@@ -13,6 +13,7 @@ def close(window, e):
 	window.quit()
 	pass
 
+
 def main():
 	window = tkinter.Tk()
 	
@@ -33,3 +34,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
